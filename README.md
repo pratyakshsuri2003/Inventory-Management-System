@@ -42,6 +42,9 @@ Clone the repository:
 ### Usage
 run the following command on your terminal
 ```bash
+pip install -r requirements.txt
+```
+```bash
 python app.py
 ```
 
